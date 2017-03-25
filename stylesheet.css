@@ -1,0 +1,44 @@
+.Header {
+	position: relative;
+	height: 100px;
+	width: 1850px;
+	border: 5px solid white;
+	border-radius: 5px;
+	background-color: #196789;
+	margin: auto;
+	margin-top: -20px;
+	font-family: Times;
+	color: white;
+	font-size: 40px;
+	font-weight: 50;
+	text-align: center;
+}
+body {
+	background-color: #548FA9;
+}
+.Navbar {
+	position: relative;
+	height: 40px;
+	width: 1810px;
+	border: 5px solid white;
+	border-radius: 5px;
+	background-color: #196789;
+	margin: auto;
+	margin-top: 10px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	z-index: 1;
+}
+.NavTab {
+	position: relative;
+	float: left;
+	left: -5px;
+	top: 40px;
+	height: 40px;
+	width: 150px;
+	border: 5px solid white;
+	border-radius: 5px;
+	background-color: #196789;
+	margin-right: 21px;
+	z-index: 0;
+}
