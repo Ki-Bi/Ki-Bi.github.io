@@ -2,19 +2,19 @@
 	position: relative;
 	height: 100px;
 	width: 1850px;
-	border: 5px solid white;
+	border: 5px solid #dcffc6;
 	border-radius: 5px;
-	background-color: #196789;
+	background-color: #f46262;
 	margin: auto;
 	margin-top: -20px;
 	font-family: Times;
-	color: white;
+	color: #dcffc6;
 	font-size: 40px;
 	font-weight: 50;
 	text-align: center;
 }
 body {
-	background-color: #548FA9;
+	background-color: #ff8888;
 }
 .Navbar {
 	position: relative;
